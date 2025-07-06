@@ -22,16 +22,6 @@ A fully interactive 3D simulation of the Solar System, developed using [Three.js
 
 ---
 
-## 🚀 Live Demo (Optional)
-
-If hosted on GitHub Pages or any server:
-
-👉 ![Solar System Screenshot](screenshot.png)
-
-> *(Replace the link with your actual GitHub Pages URL if hosted)*
-
----
-
 ## 📦 How to Run the Project Locally
 
 > ⚠️ **Do NOT open `index.html` directly.**  
@@ -67,25 +57,10 @@ You should now see a 3D animated Solar System in your browser!
 
 ---
 
-## 📝 License
-
-This project is for **educational and demonstration** purposes only.  
-Planet textures used are free under attribution from SolarSystemScope.
-
----
-
 ## 🙋‍♂️ Author
 
 **Your Name**  
-GitHub: [@yourusername](https://github.com/yourusername)
+GitHub: [Anirudhdha068](https://github.com/Anirudhdha068)
 
----
 
-## 📁 How to Add a Screenshot
-
-1. Take a screenshot of the running simulation (e.g., with Snipping Tool or Print Screen).
-2. Save it as `screenshot.png`.
-3. Place it in the root of your project folder.
-4. It will be auto-loaded in the README via:
-```markdown
 
