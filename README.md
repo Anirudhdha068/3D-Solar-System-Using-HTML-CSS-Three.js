@@ -6,7 +6,7 @@ A fully interactive 3D simulation of the Solar System, developed using [Three.js
 
 ## 📸 Demo Screenshot
 
-![Solar System Screenshot](screenshot.png)  
+![Solar System Screenshot](3D Solar System.png)  
 <sub>🌌 Screenshot of the simulation in action (add your actual file named `screenshot.png` in the repo)</sub>
 
 ---
