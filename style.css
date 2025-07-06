@@ -1,0 +1,32 @@
+/* --- reset & layout --- */
+*{margin:0;padding:0;box-sizing:border-box;}
+
+body{
+  font-family:Arial,Helvetica,sans-serif;
+  /* deep‑blue starry sky */
+  background:radial-gradient(ellipse at center,#001a3c 0%,#000814 70%,#000308 100%);
+  color:#fff;
+  overflow:hidden;
+}
+
+#canvas{display:block;width:100vw;height:100vh;}
+
+/* ---- UI panels ---- */
+#controls{
+  position:fixed;top:1rem;left:1rem;
+  background:rgba(0,0,0,.55);
+  padding:1rem;border-radius:8px;
+  max-height:90vh;overflow:auto;
+}
+#controls label{display:block;margin:.5rem 0 .25rem;font-size:.9rem}
+#controls input[type=range]{width:150px}
+
+#buttons{
+  position:fixed;bottom:1rem;left:1rem;
+}
+#buttons button{
+  margin-right:.5rem;padding:.4rem .8rem;
+  border:none;border-radius:6px;
+  background:#223;color:#fff;font-size:.85rem;cursor:pointer;
+}
+#buttons button:hover{background:#355}
